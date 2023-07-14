@@ -6,8 +6,8 @@ Motivated and results-driven student from Trinity College Dublin, eager to lever
 
 #### 📞 Additional Information
 - 🔭 I’m currently working on Personal Projects
-- 🌱 I’m currently learning Next.js 
-- 📫 How to reach me: neiljoseph.125@gmail.com   
+- 🌱 I’m currently learning C Hash
+- 📫 How to reach me: noelpeter1111@gmail.com   
 
 #### 🧰 Languages and Tools
 
@@ -22,5 +22,5 @@ Motivated and results-driven student from Trinity College Dublin, eager to lever
 
 &nbsp;
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/noelpeter1003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noel-peter10//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/noelpeter1003)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/noel-peter10///)  
 
